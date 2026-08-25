@@ -14,24 +14,13 @@ Today, my work sits at the intersection of **software engineering, artificial in
 
 ## Coach Master AI — Flagship Product
 
-**An intelligent personal coaching ecosystem designed to understand the user, identify patterns and inconsistencies, and turn insights into personalized, actionable guidance.**
+**Understand yourself. Clarify what matters. Turn insight into action.**
 
-Coach Master AI is the main product I am developing under the DaliDev-IA ecosystem.
-
-The objective is not to build another generic chatbot. The product is designed around structured guidance, contextual understanding, project and goal support, personalization and AI-assisted coaching.
+An intelligent personal coaching ecosystem designed to understand the user, identify patterns and inconsistencies, and turn insights into personalized, actionable guidance.
 
 **Public product · Private source code**
 
-The product, vision, progress and demonstrations will be shared publicly while proprietary implementation details, business logic and source code remain private.
-
-### Product direction
-
-- personalized guidance and coaching
-- structured understanding of goals and constraints
-- identification of patterns, inconsistencies and priorities
-- actionable recommendations instead of passive conversation
-- AI-supported project and personal development workflows
-- progressively richer user context and long-term guidance
+→ [Explore the public product page](products/coach-master-ai.md)
 
 ---
 
@@ -43,26 +32,9 @@ The product, vision, progress and demonstrations will be shared publicly while p
 
 Combium AI is a reusable, multi-project AI orchestration platform designed to coordinate AI models, tools, workflows and human decisions inside one controlled execution layer.
 
-The name is inspired by the **cambium**, the living growth layer of a tree — a fitting image for a system designed to sit at the core of projects and help them grow through connected intelligence, automation and structure.
-
-Combium AI is being developed as an independent platform rather than as a feature limited to Coach Master AI. It can serve as an orchestration foundation for multiple DaliDev-IA products and, ultimately, for external projects as well.
-
 **Public product · Private implementation**
 
-### Core ideas
-
-- reusable workflows across multiple projects
-- AI task orchestration
-- multi-model and multi-agent coordination
-- human-in-the-loop approvals
-- controlled execution of actions
-- traceability and audit logs
-- separation between preparation, authorization and execution
-- integration with external tools and APIs
-- reusable architecture for future DaliDev-IA products
-- cost-aware model selection and controlled AI usage
-
-Combium AI is currently evolving from a working n8n-based orchestration workflow into a broader reusable platform.
+→ [Explore the public product page](products/combium-ai.md)
 
 ---
 
@@ -72,7 +44,7 @@ An AI-assisted poker coaching product focused on helping players analyze situati
 
 **Public product · Private source code**
 
-The product is presented publicly while its implementation, proprietary logic and internal architecture remain private.
+A dedicated public product page is coming next.
 
 ---
 
