@@ -40,11 +40,13 @@ Combium AI is a reusable, multi-project AI orchestration platform designed to co
 
 ## Poker Coach AI
 
-An AI-assisted poker coaching product focused on helping players analyze situations, improve decision-making and structure their progression.
+**Turn your poker sessions into structured coaching.**
+
+An AI-assisted MTT poker coaching product that analyzes exported hand histories, detects recurring strategic leaks and turns quantified findings into clear, prioritized post-session guidance.
 
 **Public product · Private source code**
 
-A dedicated public product page is coming next.
+→ [Explore the public product page](products/poker-coach-ai.md)
 
 ---
 
@@ -116,7 +118,7 @@ I am currently focused on:
 
 - developing **Coach Master AI** as the flagship DaliDev-IA product;
 - developing **Combium AI** as a reusable AI orchestration platform;
-- developing Poker Coach AI;
+- developing **Poker Coach AI** as a structured post-session coaching product;
 - completing the 42 School engineering curriculum;
 - building the DaliDev-IA professional portfolio and product ecosystem;
 - sharing practical AI, development and automation knowledge publicly.
