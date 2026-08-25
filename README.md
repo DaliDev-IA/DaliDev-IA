@@ -10,34 +10,71 @@ Today, my work sits at the intersection of **software engineering, artificial in
 
 ---
 
-## What I am building
+# Featured Products
 
-### Coach Master AI
-An evolving intelligent coaching ecosystem designed to help users understand their situation, clarify goals, identify patterns and turn insight into personalized action.
+## Coach Master AI — Flagship Product
+
+**An intelligent personal coaching ecosystem designed to understand the user, identify patterns and inconsistencies, and turn insights into personalized, actionable guidance.**
+
+Coach Master AI is the main product I am developing under the DaliDev-IA ecosystem.
+
+The objective is not to build another generic chatbot. The product is designed around structured guidance, contextual understanding, project and goal support, personalization and AI-assisted coaching.
 
 **Public product · Private source code**
 
-The project focuses on combining structured methodology, contextual reasoning, user guidance and AI orchestration into a coherent coaching experience.
+The product, vision, progress and demonstrations will be shared publicly while proprietary implementation details, business logic and source code remain private.
 
-### Poker Coach AI
+### Product direction
+
+- personalized guidance and coaching
+- structured understanding of goals and constraints
+- identification of patterns, inconsistencies and priorities
+- actionable recommendations instead of passive conversation
+- AI-supported project and personal development workflows
+- progressively richer user context and long-term guidance
+
+---
+
+## AI Orchestration Platform — Coming Soon
+
+**A reusable multi-project AI orchestration system built around n8n.**
+
+This new project is being designed as an independent platform rather than as a feature limited to Coach Master AI.
+
+Its purpose is to coordinate AI tools and automated actions while keeping humans in control of important decisions.
+
+**Public product · Private implementation**
+
+### Core ideas
+
+- reusable workflows across multiple projects
+- AI task orchestration
+- human-in-the-loop approvals
+- controlled execution of actions
+- traceability and audit logs
+- separation between preparation, authorization and execution
+- integration with external tools and APIs
+- reusable architecture for future DaliDev-IA products
+
+The system is currently evolving from a working orchestration workflow into a broader reusable product. Its final public name and dedicated presentation will be announced soon.
+
+---
+
+## Poker Coach AI
+
 An AI-assisted poker coaching product focused on helping players analyze situations, improve decision-making and structure their progression.
 
 **Public product · Private source code**
 
 The product is presented publicly while its implementation, proprietary logic and internal architecture remain private.
 
-### AI & Automation Systems
-I also design reusable automation and multi-agent workflows for orchestrating AI tools, approvals, project actions and human-in-the-loop validation.
-
-My goal is simple: use AI to remove repetitive work while keeping systems understandable, controllable and useful in the real world.
-
 ---
 
-## 42 School — Engineering Journey
+# 42 School — Engineering Journey
 
 My public repositories document my progression from low-level C programming to Unix systems, algorithms, graphics, concurrency, C++ and networking.
 
-### C & Unix systems
+## C & Unix systems
 
 - [Libft](https://github.com/DaliDev-IA/libft) — C standard-library foundations and reusable utilities
 - [Pipex](https://github.com/DaliDev-IA/pipex) — Unix processes, pipes, redirections and `execve`
@@ -46,7 +83,7 @@ My public repositories document my progression from low-level C programming to U
 - [Minishell](https://github.com/DaliDev-IA/minishell) — shell parsing, processes, redirections, pipelines and built-ins
 - [Philosophers](https://github.com/DaliDev-IA/philosopher) — POSIX threads, synchronization and race-condition management
 
-### C++ progression
+## C++ progression
 
 The C++ modules document a structured progression through object-oriented programming and the STL:
 
@@ -61,15 +98,15 @@ The C++ modules document a structured progression through object-oriented progra
 - [CPP Module 08](https://github.com/DaliDev-IA/cpp_module08) — STL containers, iterators and algorithms
 - [CPP Module 09](https://github.com/DaliDev-IA/cpp_module09) — STL data processing, RPN and merge-insertion sorting
 
-### Networking & infrastructure
+## Networking & infrastructure
 
 - **ft_irc** — non-blocking IRC server in C++98 *(in progress)*
-- **Inception** — containerized infrastructure with Docker *(planned / upcoming in the curriculum)*
+- **Inception** — containerized infrastructure with Docker *(upcoming in the curriculum)*
 - **Transcendence** — final full-stack 42 project *(upcoming)*
 
 ---
 
-## Technical focus
+# Technical Focus
 
 **Languages & systems**  
 C · C++98 · Unix/Linux · Bash · Git · GitHub
@@ -85,7 +122,7 @@ Product architecture · Prototyping · Workflow design · Documentation · User-
 
 ---
 
-## From entrepreneur to software & AI builder
+# From Entrepreneur to Software & AI Builder
 
 I do not see software engineering as a reset of my previous career. I see it as an expansion of it.
 
@@ -95,19 +132,20 @@ That combination now shapes **DaliDev-IA**: a space for building products, exper
 
 ---
 
-## Current direction
+# Current Direction
 
 I am currently focused on:
 
+- developing **Coach Master AI** as the flagship DaliDev-IA product;
+- turning my **n8n AI orchestration system** into a reusable independent platform;
+- developing Poker Coach AI;
 - completing the 42 School engineering curriculum;
-- developing Coach Master AI and Poker Coach AI;
-- building reusable AI orchestration and automation systems;
-- creating a professional portfolio around DaliDev-IA;
+- building the DaliDev-IA professional portfolio and product ecosystem;
 - sharing practical AI, development and automation knowledge publicly.
 
 ---
 
-## Collaboration
+# Collaboration
 
 I am interested in conversations around:
 
