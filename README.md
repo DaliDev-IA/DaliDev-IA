@@ -35,13 +35,17 @@ The product, vision, progress and demonstrations will be shared publicly while p
 
 ---
 
-## AI Orchestration Platform — Coming Soon
+## Combium AI — AI Orchestration Platform
 
-**A reusable multi-project AI orchestration system built around n8n.**
+### *The intelligent layer that makes your projects grow.*
 
-This new project is being designed as an independent platform rather than as a feature limited to Coach Master AI.
+**AI orchestration at the core of your projects.**
 
-Its purpose is to coordinate AI tools and automated actions while keeping humans in control of important decisions.
+Combium AI is a reusable, multi-project AI orchestration platform designed to coordinate AI models, tools, workflows and human decisions inside one controlled execution layer.
+
+The name is inspired by the **cambium**, the living growth layer of a tree — a fitting image for a system designed to sit at the core of projects and help them grow through connected intelligence, automation and structure.
+
+Combium AI is being developed as an independent platform rather than as a feature limited to Coach Master AI. It can serve as an orchestration foundation for multiple DaliDev-IA products and, ultimately, for external projects as well.
 
 **Public product · Private implementation**
 
@@ -49,14 +53,16 @@ Its purpose is to coordinate AI tools and automated actions while keeping humans
 
 - reusable workflows across multiple projects
 - AI task orchestration
+- multi-model and multi-agent coordination
 - human-in-the-loop approvals
 - controlled execution of actions
 - traceability and audit logs
 - separation between preparation, authorization and execution
 - integration with external tools and APIs
 - reusable architecture for future DaliDev-IA products
+- cost-aware model selection and controlled AI usage
 
-The system is currently evolving from a working orchestration workflow into a broader reusable product. Its final public name and dedicated presentation will be announced soon.
+Combium AI is currently evolving from a working n8n-based orchestration workflow into a broader reusable platform.
 
 ---
 
@@ -137,7 +143,7 @@ That combination now shapes **DaliDev-IA**: a space for building products, exper
 I am currently focused on:
 
 - developing **Coach Master AI** as the flagship DaliDev-IA product;
-- turning my **n8n AI orchestration system** into a reusable independent platform;
+- developing **Combium AI** as a reusable AI orchestration platform;
 - developing Poker Coach AI;
 - completing the 42 School engineering curriculum;
 - building the DaliDev-IA professional portfolio and product ecosystem;
