@@ -20,7 +20,7 @@ An intelligent personal coaching ecosystem designed to understand the user, iden
 
 **Public product · Private source code**
 
-→ [Explore the public product page](products/coach-master-ai.md)
+→ [Explore the public product showcase](https://github.com/DaliDev-IA/Coach-Master-AI)
 
 ---
 
@@ -46,7 +46,7 @@ An AI-assisted MTT poker coaching product that analyzes exported hand histories,
 
 **Public product · Private source code**
 
-→ [Explore the public product page](products/poker-coach-ai.md)
+→ [Explore the public product showcase](https://github.com/DaliDev-IA/Poker-Coach-AI)
 
 ---
 
